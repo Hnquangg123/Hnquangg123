@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 you can call me Quang or Kelvin
+
+I'm a software engineer with hands-on experience in developing software and business analysis. Able to develop a Java, Mobile Application, and implement query persistence on the database that would be the core of the project.
+- 🌱 I’m currently learning Java Spring
+- 📫 How to reach me: hnquangg123@gmail.com
 
 <!--
 **Hnquangg123/Hnquangg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
