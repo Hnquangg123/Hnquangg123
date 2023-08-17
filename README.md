@@ -2,8 +2,10 @@
 
 ### Name is Quang or Kelvin. 
 I'm a software engineer with hands-on experience in developing software and website. I'm using Java, PHP as my core skill together with implement query persistence on the database.
-- 🌱 I’m currently learning Java Spring, PHP, Laravel, HTML/CSS + Javascript, Jquery and other cool stuff!
-- 👯 I'm looking to collaborate on full stack web apps!
+<br><br>
+Oh I'm moving to Malaysia Kuala Lumpur in September! I'm so excited! First time travel abroad!
+- 🌱 I’m currently try to master Javascript, Jquery and other cool stuff!
+- 👯 I'm looking to collaborate on full stack web apps or whatever!
 - 📫 How to reach me: hnquangg123@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [object Object]
@@ -21,9 +23,8 @@ Skill:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 <br><br>
-FIGHTING!!
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+- JavaScript is the Boss
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <br><br>
 <!--
 **Hnquangg123/Hnquangg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
