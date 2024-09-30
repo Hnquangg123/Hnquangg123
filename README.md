@@ -1,10 +1,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 ### Name is Quang or Kelvin. 
-I'm a software engineer with hands-on experience in developing software and website. I'm using Java, PHP as my core skill together with implement query persistence on the database.
+I'm a software engineer with hands-on experience in developing software, application and website. I'm using Flutter, Java, PHP as my core skill together with implement query persistence on the database.
 <br><br>
-Oh I'm moving to Malaysia Kuala Lumpur in September! I'm so excited! First time travel abroad!
-- 🌱 I’m currently try to master Javascript, Jquery and other cool stuff!
+With two years experience, I still try my best everyday to develop my self into a professional developer!
+- 🌱 I’m currently try to master Flutter, Flame and other cool stuff!
 - 👯 I'm looking to collaborate on full stack web apps or whatever!
 - 📫 How to reach me: hnquangg123@gmail.com
 - 😄 Pronouns: he/him
