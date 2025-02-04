@@ -4,8 +4,8 @@
 I'm a software engineer with hands-on experience in developing software, application and website. I'm using Flutter, Java, PHP as my core skill together with implement query persistence on the database.
 <br><br>
 With two years experience, I still try my best everyday to develop my self into a professional developer!
-- 🌱 I’m currently try to master Flutter, Flame and other cool stuff!
-- 👯 I'm looking to collaborate on full stack web apps or whatever!
+- 🌱 I’m currently try to master Flutter, Flame and other cool stuff! Check my portfolio here [My Portfolio](https://www.polywork.com/quangkel/)
+- 👯 I'm looking to collaborate on full stack web apps or whatever! You can hiring me here at [Upwork](https://www.upwork.com/freelancers/~01008df689162e1fcb?qpn-profile-completeness=portfolio)
 - 📫 How to reach me: hnquangg123@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [object Object]
