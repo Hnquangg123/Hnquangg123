@@ -1,12 +1,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
-### Name is Quang or Kelvin. 
-I'm a software engineer with hands-on experience in developing software, application and website. I'm using Flutter, Java, PHP as my core skill together with implement query persistence on the database.
+### Name is Quang or Dylan. 
+Java Backend Engineer with **4 years** of experience specializing in Cloud-native applications AWS and Spring Boot.<br>
+Holding a Bachelor’s degree in Software Engineering recognized as **H+ on the German Anabin database**.
 <br><br>
-With two years experience, I still try my best everyday to develop my self into a professional developer!
-- 🌱 I’m currently try to master Flutter, Flame and other cool stuff! Check my portfolio here [My Portfolio](https://www.polywork.com/quangkel/)
-- 👯 I'm looking to collaborate on full stack web apps or whatever! You can hiring me here at [Upwork](https://www.upwork.com/freelancers/~01008df689162e1fcb?qpn-profile-completeness=portfolio)
-- 📫 How to reach me: hnquangg123@gmail.com
+With four years experience, I still try my best everyday to develop my self into a professional developer!
+- 🔭 I’m currently working on FPT Software
+- 🌱 I’m currently try to master AWS, Cloud and other cool stuff! Check my portfolio here [My Portfolio](https://www.polywork.com/quangkel/)
+- 👯 I'm looking to collaborate on senior roles for software enginner in Germany! You can hiring me here at [Upwork](https://www.upwork.com/freelancers/~01008df689162e1fcb?qpn-profile-completeness=portfolio)
+- 📫 How to reach me: hnquangg123@gmail.com OR [LinkedIn](https://www.linkedin.com/in/nhat-quang-hua-365b35264/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [object Object]
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
