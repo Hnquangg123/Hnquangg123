@@ -7,7 +7,7 @@ Holding a Bachelor’s degree in Software Engineering recognized as **H+ on the 
 With four years experience, I still try my best everyday to develop my self into a professional developer!
 - 🔭 I’m currently working on FPT Software
 - 🌱 I’m currently try to master AWS, Cloud and other cool stuff! Check my portfolio here [My Portfolio](https://www.polywork.com/quangkel/)
-- 👯 I'm looking to collaborate on senior roles for software enginner in Germany! You can hiring me here at [Upwork](https://www.upwork.com/freelancers/~01008df689162e1fcb?qpn-profile-completeness=portfolio)
+- 👯 I'm looking to collaborate on senior roles for software enginner in Germany!
 - 📫 How to reach me: hnquangg123@gmail.com OR [LinkedIn](https://www.linkedin.com/in/nhat-quang-hua-365b35264/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [object Object]
